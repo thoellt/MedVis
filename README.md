@@ -31,7 +31,7 @@
     * b-spline
   * bi/trilinear
 
-## Applications (L3,5)
+## Applications
 
 *  cardio-vascular disease (L3) <= MPR/CPR
   * Stenosis
@@ -57,7 +57,7 @@
 * marching squares/cubes (L2)
   * Phong shading
   * gradient
-* DVR
+* DVR (L3-5)
   * MPR
   * Compositing
   * Transfer functions
