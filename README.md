@@ -33,7 +33,7 @@
 
 ## Applications
 
-*  cardio-vascular disease (L3) <= MPR/CPR
+* cardio-vascular disease (L3) <= MPR/CPR
   * Stenosis
   * Aneurysms
 * Virtual colonoscopy (L5) <= VolVis
