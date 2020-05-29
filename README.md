@@ -83,6 +83,8 @@
 
 ## (Imaging) Cytometry
 
-* High-dimensional data
-* dimensionality reduction
+* high-dimensional data
+* visualization of hd data
+  * direct (PCP/SPM)
+  * indirect (dimensionality reduction)
 * **Application: immunology research, immunotherapy**
